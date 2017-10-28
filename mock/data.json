@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "Mr. Blue Sky",
+        "album": "Guardians of the Galaxy",
+        "singer": "Electric Light Orchestra",
+        "duration": 303,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "心做し",
+        "album": "最新热歌慢摇",
+        "singer": "凑诗",
+        "duration": 268,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "历历万乡",
+        "album": "历历万乡",
+        "singer": "孟大宝",
+        "duration": 217,
+        "isLike": false
+    }
+]
